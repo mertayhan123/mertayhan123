@@ -1,4 +1,4 @@
-Fotoğraf ekleme : [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ido.vapner%2Funlocking-the-potential-of-low-code-the-future-of-software-development-and-its-impact-on-756ff318ed1&psig=AOvVaw0K8Ukb5m7WUIdIep3ABehn&ust=1708528529257000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiXovKauoQDFQAAAAAdAAAAABAS)
+Fotoğraf ekleme : [![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)
 
 <h1 align="center">Hi 👋, I'm Mert AYHAN</h1>
 <h3 align="center">I am a computer engineering student</h3>
