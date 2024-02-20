@@ -1,4 +1,4 @@
-Fotoğraf ekleme : [![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)
+[![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)
 
 <h1 align="center">Hi 👋, I'm Mert AYHAN</h1>
 <h3 align="center">I am a computer engineering student</h3>
