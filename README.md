@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/uh9lgkbyg6pb1.gif)
+![MasterHead](https://i.redd.it/uh9lgkbyg6pb1.gif)
 
 <h1 align="center">Hi 👋, I'm Mert AYHAN</h1>
 <h3 align="center">I am a computer engineering student</h3>
